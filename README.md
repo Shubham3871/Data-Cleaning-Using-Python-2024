@@ -24,7 +24,7 @@ Data cleaning is a critical step in the Machine Learning process. It ensures tha
 
 ##  Clone Github Installation
 
-git clone https://github.com/@Shubham3871/Data-Cleaning-Using-Python-2024.git
+git clone https://github.com/Shubham3871/Data-Cleaning-Using-Python-2024.git
 
 ## Installation
 
