@@ -33,5 +33,7 @@ pip install pandas numpy
 
 - [@Shubham3871](https://github.com/Shubham3871)
 
-```bash
+
+##  Clone Github Installation
+
 git clone https://github.com/@Shubham3871/Data-Cleaning-Using-Python..git
