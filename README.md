@@ -23,7 +23,7 @@ Data cleaning is a critical step in the Machine Learning process. It ensures tha
 
 ## Benefits of Data Cleaning
 
-**Do Not forget to Downlaod the Dataset, Before Moving on to the Python files.
+Do Not forget to Downlaod the Dataset, Before Moving on to the Python files.
 
 
 
